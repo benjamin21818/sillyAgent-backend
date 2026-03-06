@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.mem0/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+.idea/
+src/models/
+*.log
+*.sqlite
+*.sqlite3
