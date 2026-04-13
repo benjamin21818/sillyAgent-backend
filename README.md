@@ -1,4 +1,4 @@
-# sillyAgent-backend
+# sillyAgent-backend（此项目代码为老代码，现已进行重构）
 
 sillyAgent-backend 是一个基于 Python 的多智能体（Multi-Agent）后端服务，旨在提供智能对话、工具调用和知识检索能力。项目利用 `LangGraph` 构建智能体工作流，结合 `FastAPI` 提供高性能的 Web 服务接口。
 
